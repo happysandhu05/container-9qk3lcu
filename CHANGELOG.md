@@ -1,3 +1,16 @@
+# v0.0.5 (Mon Aug 25 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Delete src/web/templates/base.html ([@happysandhu05](https://github.com/happysandhu05))
+- Delete src/web/templates/index.html ([@happysandhu05](https://github.com/happysandhu05))
+
+#### Authors: 1
+
+- [@happysandhu05](https://github.com/happysandhu05)
+
+---
+
 # v0.0.4 (Mon Aug 25 2025)
 
 #### 🐛 Bug Fix
