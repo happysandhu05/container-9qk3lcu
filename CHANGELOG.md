@@ -1,3 +1,15 @@
+# v0.0.3 (Mon Aug 25 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Delete src/web/templates/TMDB-To-VOD-Playlist-main.zip ([@happysandhu05](https://github.com/happysandhu05))
+
+#### Authors: 1
+
+- [@happysandhu05](https://github.com/happysandhu05)
+
+---
+
 # v0.0.2 (Mon Aug 25 2025)
 
 #### 🐛 Bug Fix
