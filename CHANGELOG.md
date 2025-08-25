@@ -1,3 +1,15 @@
+# v0.0.4 (Mon Aug 25 2025)
+
+#### 🐛 Bug Fix
+
+- Happysandhu05 patch 1 [#2](https://github.com/happysandhu05/container-9qk3lcu/pull/2) ([@happysandhu05](https://github.com/happysandhu05))
+
+#### Authors: 1
+
+- [@happysandhu05](https://github.com/happysandhu05)
+
+---
+
 # v0.0.3 (Mon Aug 25 2025)
 
 #### ⚠️ Pushed to `main`
