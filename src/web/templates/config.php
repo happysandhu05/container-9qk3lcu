@@ -28,7 +28,7 @@ $premiumizeApiKey = '3ahygjucktf87qcu';
 // a local server and want to access it from other devices (firestick, android, etc. If so, specify
 // the server's local IP (e.g., '192.168.x.x') for network access. Leave this blank for default server
 // address or if installing on a public accessibe server.
-$userSetHost = 'https://container-9qk3lcu.containers.anotherwebservice.com/'; // Example: 192.168.0.100 see the help file or video for more information.
+$userSetHost = ''; // Example: 192.168.0.100 see the help file or video for more information.
 
 // Note: The $HTTP_PROXY is utilized only during the scraping of direct movie links. This is particularly necessary if you are making a large number of requests to obtain streaming links, such as when running this script as a service. It is recommended to use backconnect proxies from providers like stormproxies.com to avoid being blocked by streaming websites.
 $HTTP_PROXY = "";
@@ -267,3 +267,4 @@ function accessLog() {
  
 
 ?>
+
