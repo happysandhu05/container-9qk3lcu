@@ -1,3 +1,15 @@
+# v0.0.6 (Mon Aug 25 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update config.php ([@happysandhu05](https://github.com/happysandhu05))
+
+#### Authors: 1
+
+- [@happysandhu05](https://github.com/happysandhu05)
+
+---
+
 # v0.0.5 (Mon Aug 25 2025)
 
 #### ⚠️ Pushed to `main`
